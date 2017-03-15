@@ -1,0 +1,24 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: 1px solid white !important;
+}
+.app{
+    display: -webkit-flex;
+    display: inline-flex;
+}
+.description{
+    font-family: sans-serif;
+    color: #7c8b88;
+padding-left: 15px;    
+}
+.title{
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family:sans-serif;
+    text-indent: 0.2in;
+    color: white;
+    background-color: #33BEBE;
+    
+}
